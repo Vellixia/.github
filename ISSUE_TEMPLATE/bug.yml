@@ -1,0 +1,70 @@
+name: Bug Report
+description: Report a bug to help us improve
+title: "[bug]: "
+labels: ["bug", "triage"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. Please fill out the sections below.
+
+  - type: input
+    id: project
+    attributes:
+      label: Which project?
+      description: Which Vellixia repo is this about?
+      placeholder: e.g. Glia, Cairn
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear description of the bug.
+      placeholder: |
+        When I do X, Y happens. I expected Z.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction steps
+      description: Step-by-step instructions to reproduce the behaviour.
+      placeholder: |
+        1. Run `foo bar`
+        2. See error
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behaviour
+      description: What you expected to happen.
+    validations:
+      required: true
+
+  - type: textarea
+    id: env
+    attributes:
+      label: Environment
+      description: |
+        OS, version, commit hash, install method, etc.
+      placeholder: |
+        - OS: macOS 14.5
+        - Vellixia version: 0.7.2 (commit abc1234)
+        - Install method: cargo install
+    validations:
+      required: false
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / error output
+      description: Paste any relevant logs (use ```code blocks```).
+    validations:
+      required: false
