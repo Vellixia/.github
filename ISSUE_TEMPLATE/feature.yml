@@ -1,0 +1,54 @@
+name: Feature Request
+description: Suggest a new idea for a Vellixia project
+title: "[feat]: "
+labels: ["enhancement", "triage"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tell us what you'd like to see. Focus on the **problem** first, then the **proposed solution**.
+
+  - type: input
+    id: project
+    attributes:
+      label: Which project?
+      description: Which Vellixia repo is this for?
+      placeholder: e.g. Glia, Cairn
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What problem are you trying to solve?
+      placeholder: |
+        I'm always frustrated when...
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: How would you solve it? Be specific.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Other approaches you considered, and why you didn't pick them.
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Mockups, links, references, use cases.
+    validations:
+      required: false
