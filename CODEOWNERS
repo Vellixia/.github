@@ -1,0 +1,10 @@
+# CODEOWNERS — Vellixia organization
+# When a PR is opened in any repo under Vellixia/, these people will be
+# automatically requested for review.
+
+# Default owner for everything
+*       @Andres-Holivin
+
+# Code-heavy projects get the founder; docs get the founder too.
+/.github/          @Andres-Holivin
+/docs/             @Andres-Holivin
