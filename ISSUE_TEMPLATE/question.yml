@@ -1,0 +1,23 @@
+name: Question
+description: Ask a question about a Vellixia project
+title: "[question]: "
+labels: ["question"]
+assignees: []
+
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Which project?
+      placeholder: e.g. Glia, Cairn
+    validations:
+      required: true
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      placeholder: |
+        What does X do? How do I configure Y?
+    validations:
+      required: true
