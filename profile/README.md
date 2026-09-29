@@ -1,71 +1,54 @@
-<!-- Vellixia/.github/profile/README.md -->
-<!-- This file is automatically rendered on https://github.com/Vellixia -->
-<!-- https://docs.github.com/en/organizations/collaborating-with-organization-members/publicizing-your-organizations-profile -->
+<!-- Organization profile README -->
 
 <div align="center">
 
-<img src="https://github.com/Vellixia.png" width="120" height="120" alt="Vellixia logo" />
+# Independent Research Lab
 
-# Vellixia
+### Curiosity → Research → Experiment → Build
 
-### A realm of swift clarity
+**Explore what we don't fully understand. Build to find out.**
 
-**Open-source tools for AI agents — local-first, self-hosted, fast.**
+*Jakarta, Indonesia · Founded 2025*
 
-*Jakarta, Indonesia · Remote-first · Founded 2025*
-
-[Website](https://vellixia.github.io) · [All repos](https://github.com/orgs/Vellixia/repositories) · [Contact](mailto:andresholivin01@gmail.com)
+[Repositories](https://github.com/orgs/Vellixia/repositories) · [Contact](mailto:andresholivin01@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 The Name
+Everything starts with a question:
 
-**Vellixia** is a modern, abstract creation formed by blending three linguistic concepts:
+> **What happens if we try this?**
 
-- **Vel-** *(velocity)* — speed, momentum, and rapid execution
-- **-lix** *(light · clarity)* — from Latin *lūx*; transparency and illuminating solutions
-- **-ia** *(the realm)* — a collective suffix denoting a place or ecosystem
+We explore ideas, challenge assumptions, research problems, and build experiments to test them against reality.
 
-> *"A realm of swift clarity."*
+Some experiments fail and become **knowledge**.  
+Some become **open-source tools**.  
+Some become **new technologies**.  
+Some grow into **products people use**.
 
-We build software that is **futuristic, energetic, and sleek**. Every line of code is fast, every interface is clear, every system is built to illuminate complexity rather than add to it.
+```text
+Question → Research → Experiment → Build → Learn
+                                      ↓
+                         Tool · Technology · Product
+                                      ↓
+                               New questions
+```
 
----
+We are not tied to one technology or field.
 
-## 🚀 Featured Projects
+**AI · Software · Hardware · Interactive Systems · Whatever is worth exploring next**
 
-<!-- Pinned repos are configured via https://github.com/orgs/Vellixia/settings -->
+Our long-term goal:
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Glia**](https://github.com/Vellixia/Glia) | AI agent skill synthesizer — local-first, air-gappable, graph+vector+causal retrieval | Rust · SurrealDB · OpenBao · candle |
-| [**Cairn**](https://github.com/Vellixia/Cairn) | Context & reliability layer for AI agents — memory, lean context, guardrails, multi-device sync | Rust · MCP |
-
-> Both projects are open-source under permissive licenses.
-
----
-
-## 💬 Mottos
-
-> Building at the speed of light.
-> Swift code. Brilliant experiences.
-> Illuminating performance in modern software.
-> Where velocity meets clarity.
+> **Turn curiosity into knowledge, knowledge into experiments, and the strongest experiments into meaningful creations.**
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
-We welcome contributions! Check out each project's [`CONTRIBUTING.md`](https://github.com/Vellixia/.github/blob/main/CONTRIBUTING.md) and [`CODE_OF_CONDUCT.md`](https://github.com/Vellixia/.github/blob/main/CODE_OF_CONDUCT.md).
+Ideas, experiments, issues, and contributions are welcome.
 
-Found a security issue? See [`SECURITY.md`](https://github.com/Vellixia/.github/blob/main/SECURITY.md).
+See [CONTRIBUTING.md](https://github.com/Vellixia/.github/blob/main/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/Vellixia/.github/blob/main/CODE_OF_CONDUCT.md).
 
----
-
-<div align="center">
-
-**Where velocity meets clarity.** ✨
-
-</div>
+Found a security issue? See [SECURITY.md](https://github.com/Vellixia/.github/blob/main/SECURITY.md).
