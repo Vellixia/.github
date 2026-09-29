@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cunilab/.github/main/profile/assets/cunilab-banner.png" alt="Cunilab: an independent lab for experiments that might become useful" width="100%">
+<img src="https://raw.githubusercontent.com/cunilab/.github/main/profile/assets/cunilab-banner.png" alt="Cunilab: where curiosity becomes something real" width="100%">
 
 **Ask. Test. Build. Learn. Repeat.**
 
-*Jakarta, Indonesia · Since 2025*
+*Since 2025*
 
 [Repositories](https://github.com/orgs/cunilab/repositories) · [Website](https://cunilab.github.io) · [Contact](mailto:andresholivin01@gmail.com)
 
@@ -32,8 +32,8 @@ and come back with something real.
 
 That question is where every experiment here starts.
 
-We don't start with a product plan. We start with curiosity, turn it into an
-experiment, and build just enough to see what's real.
+Sometimes it starts with a question, sometimes with a problem or a plan.
+Either way, we turn it into an experiment and build just enough to see what's real.
 Some experiments become tools. Some become knowledge. Some fail, and that's
 data too.
 
@@ -72,10 +72,10 @@ explorer time.
 
 ## Lab rules
 
-- **Curiosity over roadmap.** The subject can change; the method doesn't.
+- **Curiosity first.** The subject can change; the method doesn't.
 - **Small and real beats big and imagined.**
 - **Failure is recorded, not hidden.**
-- **Open by default.** If it's useful, share it.
+- **Share what helps.** If it's useful, let others use it.
 
 ---
 

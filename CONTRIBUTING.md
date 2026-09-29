@@ -1,6 +1,6 @@
 # Contributing to Cunilab
 
-Thanks for your interest in contributing! Cunilab projects are open-source and welcome PRs, issues, and discussion.
+Thanks for your interest in contributing! Many Cunilab projects are open source and welcome PRs, issues, and discussion.
 
 ## Quick start
 
