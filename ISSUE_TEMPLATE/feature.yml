@@ -1,5 +1,5 @@
 name: Feature Request
-description: Suggest a new idea for a Vellixia project
+description: Suggest a new idea for a Cunilab project
 title: "[feat]: "
 labels: ["enhancement", "triage"]
 assignees: []
@@ -14,7 +14,7 @@ body:
     id: project
     attributes:
       label: Which project?
-      description: Which Vellixia repo is this for?
+      description: Which Cunilab repo is this for?
       placeholder: e.g. Glia, Cairn
     validations:
       required: true

@@ -2,7 +2,7 @@
 
 ## Our pledge
 
-We want everyone who participates in Vellixia projects to have a harassment-free experience — regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We want everyone who participates in Cunilab projects to have a harassment-free experience — regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Expected behaviour
 

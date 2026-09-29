@@ -1,2 +1,2 @@
 # .github
-Vellixia organization profile, community health files, and policies.
+Cunilab organization profile, community health files, and policies.

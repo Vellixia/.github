@@ -1,6 +1,6 @@
-# Contributing to Vellixia
+# Contributing to Cunilab
 
-Thanks for your interest in contributing! Vellixia projects are open-source and welcome PRs, issues, and discussion.
+Thanks for your interest in contributing! Cunilab projects are open-source and welcome PRs, issues, and discussion.
 
 ## Quick start
 

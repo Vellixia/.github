@@ -14,7 +14,7 @@ body:
     id: project
     attributes:
       label: Which project?
-      description: Which Vellixia repo is this about?
+      description: Which Cunilab repo is this about?
       placeholder: e.g. Glia, Cairn
     validations:
       required: true
@@ -56,7 +56,7 @@ body:
         OS, version, commit hash, install method, etc.
       placeholder: |
         - OS: macOS 14.5
-        - Vellixia version: 0.7.2 (commit abc1234)
+        - Project version: 0.7.2 (commit abc1234)
         - Install method: cargo install
     validations:
       required: false

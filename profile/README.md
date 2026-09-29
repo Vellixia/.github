@@ -2,71 +2,94 @@
 
 <div align="center">
 
-# Independent Research Lab
+<img src="https://raw.githubusercontent.com/Vellixia/.github/main/profile/assets/cunilab-banner.png" alt="Cunilab: an independent lab for experiments that might become useful" width="100%">
 
-### Curiosity → Research → Experiment → Build
+**Ask. Test. Build. Learn. Repeat.**
 
-**Explore what we don't fully understand. Build to find out.**
+*Jakarta, Indonesia · Since 2025*
 
-*Jakarta, Indonesia · Founded 2025*
-
-[Repositories](https://github.com/orgs/Vellixia/repositories) · [Contact](mailto:andresholivin01@gmail.com)
+[Repositories](https://github.com/orgs/Vellixia/repositories) · [Website](https://vellixia.github.io) · [Contact](mailto:andresholivin01@gmail.com)
 
 </div>
 
 ---
 
-## How We Work
+## The name
 
-Everything starts with one question:
+**Cunilab** = *cuni-* (from the Latin *cuniculus*) + *lab*
 
-> ### **What happens if we try this?**
+In Latin, **cuniculus** has two meanings:
 
-We explore the idea, research what is already known, build an experiment, and learn from what reality tells us.
+| 🐇 **A rabbit** | 🕳️ **An underground tunnel** |
+|:--|:--|
+| Small, fast, restless, and always curious. | A passage dug to reach something hidden. The Etruscans and Romans dug *cuniculi* to move water under the land. |
 
-<div align="center">
+One word covers the animal and the tunnel it digs. So **Cunilab** means, literally,
+**the Rabbit Hole Lab**: the place where we follow a question deeper than we planned
+and come back with something real.
 
-### **Explore → Test → Build → Learn**
+## What happens if we try this?
 
-</div>
+That question is where every experiment here starts.
 
-| **01 · Explore** | **02 · Test** | **03 · Build** | **04 · Learn** |
+We don't start with a product plan. We start with curiosity, turn it into an
+experiment, and build just enough to see what's real.
+Some experiments become tools. Some become knowledge. Some fail, and that's
+data too.
+
+## Philosophy
+
+**🐇 Follow the rabbit.**
+Curiosity is the compass. If a question won't leave us alone, it's worth chasing.
+
+**🕳️ Dig until it's real.**
+An idea only counts once we can touch it: a prototype, a test, a result.
+We go from talking to building as fast as we can.
+
+**🔦 Bring back the light.**
+A tunnel is only useful if it leads somewhere. Every experiment comes back with
+something: a tool, an insight, or a clearer question.
+
+**🪨 Dead ends are part of the map.**
+Some tunnels go nowhere. We write that down too. Knowing what fails saves the next
+explorer time.
+
+## How we work
+
+| **01 · Ask** | **02 · Test** | **03 · Build** | **04 · Learn** |
 |:--|:--|:--|:--|
-| Ask better questions.<br>Study the problem. | Turn assumptions into experiments.<br>Look for evidence. | Make the idea real enough to test.<br>Prototype before polishing. | Keep what works.<br>Record what fails.<br>Ask the next question. |
+| Find a question worth asking.<br>Study what's already known. | Turn assumptions into experiments.<br>Look for evidence, not opinions. | Prototype before polishing.<br>Make it real enough to try. | Keep what works.<br>Write down what didn't.<br>Ask the next question. |
 
-### What can come out of it?
+## What comes out of the burrow
 
-<div align="center">
+🧪 **Experiments**: small, fast tests of an idea
+🛠️ **Tools**: things that turned out to be useful
+📖 **Knowledge**: what we learned, including what failed
+❓ **New questions**: the tunnels we'll dig next
 
-**Knowledge** · **Open Source** · **Technology** · **Products** · **New Questions**
+> Not every experiment needs to become a product.
+> **Learning something reliable is already progress.**
 
-</div>
+## Lab rules
 
-Not every experiment needs to become a product. **Learning something reliable is already progress.**
-
-### What We Explore
-
-**Anything worth understanding, testing, or creating.**
-
-We do not define the lab by a specific field, technology, or industry.  
-If a question is meaningful and can lead to new knowledge, capability, or creation, it belongs here.
-
-**The subject can change. The way we explore stays the same.**
-
-<div align="center">
-
-### **Curiosity → Knowledge → Experiment → Creation**
-
-*Turn strong questions into things that did not exist before.*
-
-</div>
+- **Curiosity over roadmap.** The subject can change; the method doesn't.
+- **Small and real beats big and imagined.**
+- **Failure is recorded, not hidden.**
+- **Open by default.** If it's useful, share it.
 
 ---
 
-## Contributing
+## Join the dig
 
-Ideas, experiments, issues, and contributions are welcome.
+Ideas, issues, and contributions are welcome, even half-formed ones.
+Every good tunnel started as a small scratch in the ground.
 
-See [CONTRIBUTING.md](https://github.com/Vellixia/.github/blob/main/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/Vellixia/.github/blob/main/CODE_OF_CONDUCT.md).
+[Contributing](https://github.com/Vellixia/.github/blob/main/CONTRIBUTING.md) ·
+[Code of Conduct](https://github.com/Vellixia/.github/blob/main/CODE_OF_CONDUCT.md) ·
+[Security](https://github.com/Vellixia/.github/blob/main/SECURITY.md)
 
-Found a security issue? See [SECURITY.md](https://github.com/Vellixia/.github/blob/main/SECURITY.md).
+<div align="center">
+
+*Cunilab: down the rabbit hole, on purpose.*
+
+</div>

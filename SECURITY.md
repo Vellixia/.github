@@ -1,6 +1,6 @@
 # Security Policy
 
-Vellixia takes security seriously. We appreciate coordinated disclosure of vulnerabilities.
+Cunilab takes security seriously. We appreciate coordinated disclosure of vulnerabilities.
 
 ## Supported versions
 
@@ -48,4 +48,4 @@ Out of scope:
 
 ## Recognition
 
-We credit reporters in release notes (unless you prefer to remain anonymous). Thank you for helping keep Vellixia — and its users — secure.
+We credit reporters in release notes (unless you prefer to remain anonymous). Thank you for helping keep Cunilab — and its users — secure.
