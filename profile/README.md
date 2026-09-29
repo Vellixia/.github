@@ -16,32 +16,53 @@
 
 ---
 
-Everything starts with a question:
+## From Curiosity to Creation
 
-> **What happens if we try this?**
+<div align="center">
 
-We explore ideas, challenge assumptions, research problems, and build experiments to test them against reality.
+### What happens if we try this?
 
-Some experiments fail and become **knowledge**.  
-Some become **open-source tools**.  
-Some become **new technologies**.  
-Some grow into **products people use**.
+</div>
 
-```text
-Question → Research → Experiment → Build → Learn
-                                      ↓
-                         Tool · Technology · Product
-                                      ↓
-                               New questions
-```
+Every project starts with curiosity.
+
+We explore ideas, challenge assumptions, research the problem, then **build experiments to test what is true in reality**.
+
+<div align="center">
+
+`Question → Research → Experiment → Build → Learn`
+
+↓  
+
+**Knowledge · Tool · Technology · Product**
+
+↓  
+
+`New questions`
+
+</div>
+
+Not every experiment needs to become a product.
+
+| An experiment may become… | Value |
+|---|---|
+| **Knowledge** | Something we now understand |
+| **Open source** | Something others can build on |
+| **Technology** | A capability we can reuse |
+| **Product** | Something useful in the real world |
+| **Another question** | A new direction worth exploring |
 
 We are not tied to one technology or field.
 
+<div align="center">
+
 **AI · Software · Hardware · Interactive Systems · Whatever is worth exploring next**
 
-Our long-term goal:
+<br>
 
 > **Turn curiosity into knowledge, knowledge into experiments, and the strongest experiments into meaningful creations.**
+
+</div>
 
 ---
 
