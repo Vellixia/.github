@@ -18,51 +18,56 @@
 
 ## From Curiosity to Creation
 
-<div align="center">
+> ### What happens if we try this?
 
-### What happens if we try this?
+We do not start with a product.  
+We start with a **question worth testing**.
 
-</div>
+```mermaid
+flowchart LR
+    Q["Question<br/>What are we curious about?"]
+    R["Research<br/>What is already known?"]
+    H["Hypothesis<br/>What might be true?"]
+    E["Experiment<br/>How can we test it?"]
+    B["Build<br/>Make it real"]
+    V["Evidence<br/>What actually happened?"]
+    D{"Discovery"}
 
-Every project starts with curiosity.
+    K["Knowledge"]
+    O["Open source"]
+    T["Technology"]
+    P["Product"]
+    N["New question"]
 
-We explore ideas, challenge assumptions, research the problem, then **build experiments to test what is true in reality**.
+    Q --> R --> H --> E --> B --> V --> D
 
-<div align="center">
+    D --> K
+    D --> O
+    D --> T
+    D --> P
+    D --> N
 
-`Question → Research → Experiment → Build → Learn`
+    N --> Q
+```
 
-↓  
+> **Not every experiment needs to become a product.**  
+> An experiment that gives us reliable knowledge is already useful.
 
-**Knowledge · Tool · Technology · Product**
+### What can come out of the lab?
 
-↓  
+**Knowledge** — something we understand better  
+**Open source** — something others can build on  
+**Technology** — a capability we can reuse  
+**Product** — something useful in the real world  
+**New questions** — another direction worth exploring
 
-`New questions`
+### What do we explore?
 
-</div>
+`AI` · `Software` · `Hardware` · `Interactive Systems` · `Anything worth testing`
 
-Not every experiment needs to become a product.
-
-| An experiment may become… | Value |
-|---|---|
-| **Knowledge** | Something we now understand |
-| **Open source** | Something others can build on |
-| **Technology** | A capability we can reuse |
-| **Product** | Something useful in the real world |
-| **Another question** | A new direction worth exploring |
-
-We are not tied to one technology or field.
-
-<div align="center">
-
-**AI · Software · Hardware · Interactive Systems · Whatever is worth exploring next**
-
-<br>
+We are not tied to one technology or field. The subject can change; the way we work should remain the same.
 
 > **Turn curiosity into knowledge, knowledge into experiments, and the strongest experiments into meaningful creations.**
-
-</div>
 
 ---
 
