@@ -16,58 +16,47 @@
 
 ---
 
-## From Curiosity to Creation
+## How We Work
 
-> ### What happens if we try this?
+Everything starts with one question:
 
-We do not start with a product.  
-We start with a **question worth testing**.
+> ### **What happens if we try this?**
 
-```mermaid
-flowchart LR
-    Q["Question<br/>What are we curious about?"]
-    R["Research<br/>What is already known?"]
-    H["Hypothesis<br/>What might be true?"]
-    E["Experiment<br/>How can we test it?"]
-    B["Build<br/>Make it real"]
-    V["Evidence<br/>What actually happened?"]
-    D{"Discovery"}
+We explore the idea, research what is already known, build an experiment, and learn from what reality tells us.
 
-    K["Knowledge"]
-    O["Open source"]
-    T["Technology"]
-    P["Product"]
-    N["New question"]
+<div align="center">
 
-    Q --> R --> H --> E --> B --> V --> D
+### **Explore → Test → Build → Learn**
 
-    D --> K
-    D --> O
-    D --> T
-    D --> P
-    D --> N
+</div>
 
-    N --> Q
-```
+| **01 · Explore** | **02 · Test** | **03 · Build** | **04 · Learn** |
+|:--|:--|:--|:--|
+| Ask better questions.<br>Study the problem. | Turn assumptions into experiments.<br>Look for evidence. | Make the idea real enough to test.<br>Prototype before polishing. | Keep what works.<br>Record what fails.<br>Ask the next question. |
 
-> **Not every experiment needs to become a product.**  
-> An experiment that gives us reliable knowledge is already useful.
+### What can come out of it?
 
-### What can come out of the lab?
+<div align="center">
 
-**Knowledge** — something we understand better  
-**Open source** — something others can build on  
-**Technology** — a capability we can reuse  
-**Product** — something useful in the real world  
-**New questions** — another direction worth exploring
+**Knowledge** · **Open Source** · **Technology** · **Products** · **New Questions**
+
+</div>
+
+Not every experiment needs to become a product. **Learning something reliable is already progress.**
 
 ### What do we explore?
 
 `AI` · `Software` · `Hardware` · `Interactive Systems` · `Anything worth testing`
 
-We are not tied to one technology or field. The subject can change; the way we work should remain the same.
+We are not tied to one technology or field. The subject can change. **The way we work stays the same.**
 
-> **Turn curiosity into knowledge, knowledge into experiments, and the strongest experiments into meaningful creations.**
+<div align="center">
+
+### **Curiosity → Knowledge → Experiment → Creation**
+
+*Turn strong questions into things that did not exist before.*
+
+</div>
 
 ---
 
