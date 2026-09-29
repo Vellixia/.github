@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vellixia/.github/main/profile/assets/cunilab-banner.png" alt="Cunilab: an independent lab for experiments that might become useful" width="100%">
+<img src="https://raw.githubusercontent.com/cunilab/.github/main/profile/assets/cunilab-banner.png" alt="Cunilab: an independent lab for experiments that might become useful" width="100%">
 
 **Ask. Test. Build. Learn. Repeat.**
 
 *Jakarta, Indonesia · Since 2025*
 
-[Repositories](https://github.com/orgs/Vellixia/repositories) · [Website](https://vellixia.github.io) · [Contact](mailto:andresholivin01@gmail.com)
+[Repositories](https://github.com/orgs/cunilab/repositories) · [Website](https://cunilab.github.io) · [Contact](mailto:andresholivin01@gmail.com)
 
 </div>
 
@@ -84,9 +84,9 @@ explorer time.
 Ideas, issues, and contributions are welcome, even half-formed ones.
 Every good tunnel started as a small scratch in the ground.
 
-[Contributing](https://github.com/Vellixia/.github/blob/main/CONTRIBUTING.md) ·
-[Code of Conduct](https://github.com/Vellixia/.github/blob/main/CODE_OF_CONDUCT.md) ·
-[Security](https://github.com/Vellixia/.github/blob/main/SECURITY.md)
+[Contributing](https://github.com/cunilab/.github/blob/main/CONTRIBUTING.md) ·
+[Code of Conduct](https://github.com/cunilab/.github/blob/main/CODE_OF_CONDUCT.md) ·
+[Security](https://github.com/cunilab/.github/blob/main/SECURITY.md)
 
 <div align="center">
 
