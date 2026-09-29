@@ -44,11 +44,16 @@ We explore the idea, research what is already known, build an experiment, and le
 
 Not every experiment needs to become a product. **Learning something reliable is already progress.**
 
-### What do we explore?
+### Areas We Explore
 
-`AI` · `Software` · `Hardware` · `Interactive Systems` · `Anything worth testing`
+We investigate problems where technology can create new capabilities, better tools, or new ways to interact with the world.
 
-We are not tied to one technology or field. The subject can change. **The way we work stays the same.**
+- **AI & Autonomous Systems** — agents, memory, orchestration, reasoning, and human control.
+- **Software & Developer Systems** — infrastructure, tools, workflows, reliability, and automation.
+- **Hardware & Physical Computing** — embedded systems, connected devices, and software–hardware interaction.
+- **Interactive Systems** — games, simulations, interfaces, and new forms of human–computer interaction.
+
+The list is not a boundary. **If a question is worth investigating, it can become part of the lab.**
 
 <div align="center">
 
