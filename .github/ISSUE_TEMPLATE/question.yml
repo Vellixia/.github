@@ -1,0 +1,25 @@
+name: Question
+description: Ask about using, understanding, or contributing to the project
+title: "[question]: "
+labels:
+  - question
+assignees: []
+
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: Ask one focused question and include enough context to understand it.
+      placeholder: |
+        What are you trying to understand or do?
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Add relevant code, configuration, links, or attempted approaches.
+    validations:
+      required: false

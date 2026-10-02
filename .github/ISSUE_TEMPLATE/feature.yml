@@ -1,0 +1,41 @@
+name: Feature Request
+description: Propose a useful change
+title: "[feat]: "
+labels:
+  - enhancement
+assignees: []
+
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What problem or limitation should be solved?
+      placeholder: |
+        I need to ... because ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired outcome
+      description: What should become possible after this change?
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed approach
+      description: Optional. Describe an implementation or design if you already have one.
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Add examples, references, mockups, or constraints when useful.
+    validations:
+      required: false

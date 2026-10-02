@@ -1,34 +1,19 @@
 ## Summary
 
-<!-- One or two sentences. What does this PR change and why? -->
+<!-- What changed and why? Keep this short. -->
 
-## Linked issues
+## Related issue
 
-<!-- Use `Closes #N` or `Refs #N` to link issues. -->
+<!-- Optional: Closes #N / Refs #N -->
 
-## Type of change
+## Validation
 
-- [ ] Bug fix (non-breaking change that fixes an issue)
-- [ ] New feature (non-breaking change that adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to change)
-- [ ] Documentation update
-- [ ] Refactor / cleanup
-- [ ] Performance improvement
+<!-- How did you check this change? Use "Not applicable" when no validation is needed. -->
 
-## Test plan
+- [ ] Verified the change where applicable
+- [ ] Added or updated tests where useful
+- [ ] Updated documentation where needed
 
-<!-- How did you verify this works? Include commands run and their output. -->
+## Notes
 
-- [ ] Tested locally
-- [ ] Added/updated unit tests
-- [ ] Added/updated integration tests
-- [ ] Manually verified end-to-end
-
-## Checklist
-
-- [ ] My code follows the project's style guidelines
-- [ ] I have added tests that prove my fix/feature works
-- [ ] New and existing unit tests pass locally
-- [ ] I have updated relevant documentation
-- [ ] My changes generate no new warnings
-- [ ] I have read [`CONTRIBUTING.md`](./CONTRIBUTING.md)
+<!-- Optional: trade-offs, screenshots, follow-up work, or anything reviewers should know. -->

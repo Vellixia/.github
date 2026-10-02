@@ -1,37 +1,52 @@
 # Contributing to Cunilab
 
-Thanks for your interest in contributing! Many Cunilab projects are open source and welcome PRs, issues, and discussion.
+Contributions are welcome across Cunilab projects. Each repository may have its own workflow, tooling, and quality requirements, so check that repository's README and contributing notes first.
 
-## Quick start
+## Before you start
 
-1. Fork the repo you want to contribute to.
-2. Create a branch: `git checkout -b feat/your-change`
-3. Make your changes. Add tests where applicable.
-4. Run the project's test suite locally.
-5. Push your branch and open a PR against `main`.
+- Search existing issues and pull requests before opening a duplicate.
+- For larger changes, open an issue or discussion first when the project provides one.
+- Keep changes focused. One clear problem or improvement per pull request is easier to review.
 
-## Conventions
+## Making a change
 
-- **Commits** — [Conventional Commits](https://www.conventionalcommits.org/) format: `feat(scope):`, `fix(scope):`, `docs:`, `chore:`, `refactor:`, `test:`.
-- **Branches** — `feat/`, `fix/`, `chore/`, `docs/`, `refactor/`. Keep names short and descriptive.
-- **PRs** — One logical change per PR. Reference any related issues with `Closes #N` or `Refs #N`.
+A typical contribution flow is:
+
+1. Create a branch or fork.
+2. Make the smallest change that solves the problem.
+3. Run the checks relevant to that project.
+4. Add or update tests when they provide useful confidence.
+5. Update documentation when behaviour or usage changes.
+6. Open a pull request explaining what changed and why.
+
+Repositories may define stricter rules. Those project-specific rules take precedence over this organization default.
+
+## Commits and branches
+
+Use clear, descriptive commit messages and branch names. Conventional Commits such as `feat:`, `fix:`, `docs:`, and `chore:` are encouraged when a repository does not define another convention, but they are not required organization-wide.
 
 ## Reporting bugs
 
-Use the **Bug Report** issue template. Include reproduction steps, expected vs actual behaviour, and environment details (OS, version, commit hash).
+Use the repository's **Bug Report** template when available. Include:
 
-## Suggesting features
+- what happened
+- what you expected
+- minimal reproduction steps
+- relevant environment details
+- useful logs or evidence
 
-Use the **Feature Request** issue template. Describe the problem first, then the proposed solution.
+## Suggesting changes
+
+Use the **Feature Request** template when available. Start with the problem and desired outcome. An implementation proposal is optional.
 
 ## Security issues
 
-**Do not** open a public issue for security vulnerabilities. See [`SECURITY.md`](./SECURITY.md) for disclosure instructions.
+Do **not** open a public issue for a suspected vulnerability. Follow [`SECURITY.md`](./SECURITY.md).
 
 ## Code of conduct
 
-By participating, you agree to abide by our [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md).
+By participating, you agree to follow [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md).
 
-## Questions?
+## Questions
 
-Open a discussion on the relevant project repo or email [andresholivin01@gmail.com](mailto:andresholivin01@gmail.com).
+Use the relevant repository's issue or discussion area when available. For organization-level questions, contact [andresholivin01@gmail.com](mailto:andresholivin01@gmail.com).
