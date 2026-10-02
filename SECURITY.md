@@ -1,51 +1,57 @@
 # Security Policy
 
-Cunilab takes security seriously. We appreciate coordinated disclosure of vulnerabilities.
+Cunilab welcomes responsible disclosure of security vulnerabilities.
 
-## Supported versions
+## Supported code
 
-| Project | Supported |
-|---|---|
-| Latest release | ✅ |
-| Previous release | ✅ for 90 days |
-| Older versions | ❌ |
+Support differs by project and maturity level.
+
+Unless a repository states otherwise, security fixes are focused on the latest actively maintained release or default branch. Experimental, archived, or older versions may not receive fixes.
+
+Check the affected repository for project-specific support information.
 
 ## Reporting a vulnerability
 
-**Please do not file a public GitHub issue for security vulnerabilities.**
+**Do not open a public GitHub issue for a suspected security vulnerability.**
 
-Email **[andresholivin01@gmail.com](mailto:andresholivin01@gmail.com)** with:
+Email **[andresholivin01@gmail.com](mailto:andresholivin01@gmail.com)** with enough information to investigate:
 
-- Project name and version/commit
-- A clear description of the vulnerability
-- Reproduction steps or a proof-of-concept
-- Potential impact and attack scenario
-- Your name / handle (if you'd like to be credited)
+- affected project
+- version, release, or commit
+- vulnerability description
+- reproduction steps or proof of concept
+- potential impact
+- relevant logs, traces, or screenshots
+- your name or handle if you want attribution
 
-We aim to:
+Please avoid accessing, changing, or exposing data that does not belong to you.
 
-- Acknowledge within **48 hours**
-- Provide an initial assessment within **5 business days**
-- Coordinate disclosure timing with you
+## What happens next
+
+Reports are handled on a best-effort basis. Response and remediation time depend on severity, reproducibility, project maturity, maintainer availability, and the complexity of the fix.
+
+When appropriate, we will coordinate disclosure with the reporter and avoid publishing exploit details before a reasonable fix or mitigation is available.
 
 ## Scope
 
-In scope:
+Security reports are useful when they describe a concrete issue in code or infrastructure maintained by Cunilab, such as:
 
-- Code execution or sandbox escapes
-- Authentication or authorization bypass
-- Data exposure (memory contents, secrets, sync payloads)
-- Cryptographic weaknesses
-- Remote code execution via network inputs
-- Dependency confusion / supply-chain compromise
+- authentication or authorization bypass
+- unintended data or secret exposure
+- remote code execution
+- sandbox or isolation escape
+- realistic cryptographic weakness
+- supply-chain or dependency-confusion risk caused by Cunilab-controlled configuration
 
-Out of scope:
+Reports are generally less actionable when they concern:
 
-- Self-XSS
-- Denial-of-service that requires local access
-- Issues in third-party dependencies (report upstream)
-- Theoretical issues without a realistic attack path
+- purely theoretical issues without a realistic attack path
+- vulnerabilities that exist only in an unrelated third-party dependency
+- self-XSS without impact on another user
+- denial of service requiring control of the local machine
+
+Project-specific security policies take precedence over this organization default.
 
 ## Recognition
 
-We credit reporters in release notes (unless you prefer to remain anonymous). Thank you for helping keep Cunilab — and its users — secure.
+When appropriate, reporters can be credited in release notes or security advisories unless they prefer to remain anonymous.
