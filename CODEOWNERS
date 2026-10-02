@@ -1,10 +1,5 @@
-# CODEOWNERS — Cunilab organization
-# When a PR is opened in any repo under Cunilab/, these people will be
-# automatically requested for review.
+# CODEOWNERS — cunilab/.github
+# Applies only to this repository. CODEOWNERS is not inherited by other
+# Cunilab repositories.
 
-# Default owner for everything
-*       @Andres-Holivin
-
-# Code-heavy projects get the founder; docs get the founder too.
-/.github/          @Andres-Holivin
-/docs/             @Andres-Holivin
+* @Andres-Holivin
