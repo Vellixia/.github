@@ -1,0 +1,54 @@
+name: Bug Report
+description: Report a reproducible problem
+title: "[bug]: "
+labels:
+  - bug
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a problem. Keep the report focused and reproducible.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the problem and what you expected instead.
+      placeholder: |
+        When I do X, Y happens. I expected Z.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction
+      description: Give the smallest reliable steps to reproduce the problem.
+      placeholder: |
+        1. Run ...
+        2. Do ...
+        3. See ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Add only details relevant to reproducing the problem.
+      placeholder: |
+        - OS:
+        - Version / commit:
+        - Install method:
+    validations:
+      required: false
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Logs or evidence
+      description: Add logs, screenshots, traces, or other useful evidence.
+    validations:
+      required: false
